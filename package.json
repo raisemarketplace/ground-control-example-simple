@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "sambell run routes"
+  },
+  "dependencies": {
+    "sambell": "^0.1.22"
+  }
+}
