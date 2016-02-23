@@ -3,6 +3,6 @@
     "start": "sambell run routes"
   },
   "dependencies": {
-    "sambell": "^0.1.22"
+    "sambell": "^0.3.1"
   }
 }
